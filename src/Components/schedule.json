@@ -1,0 +1,62 @@
+[
+  {
+    "Teama": "B",
+    "Teamb": "A",
+    "day": 1
+  },
+  {
+    "Teama": "B",
+    "Teamb": "C",
+    "day": 3
+  },
+  {
+    "Teama": "B",
+    "Teamb": "E",
+    "day": 5
+  },
+  {
+    "Teama": "A",
+    "Teamb": "C",
+    "day": 7
+  },
+  {
+    "Teama": "A",
+    "Teamb": "E",
+    "day": 9
+  },
+  {
+    "Teama": "C",
+    "Teamb": "E",
+    "day": 11
+  },
+  {
+    "Teama": "C",
+    "Teamb": "E",
+    "day": 13
+  },
+  {
+    "Teama": "B",
+    "Teamb": "A",
+    "day": 15
+  },
+  {
+    "Teama": "B",
+    "Teamb": "C",
+    "day": 17
+  },
+  {
+    "Teama": "B",
+    "Teamb": "E",
+    "day": 19
+  },
+  {
+    "Teama": "A",
+    "Teamb": "C",
+    "day": 21
+  },
+  {
+    "Teama": "A",
+    "Teamb": "E",
+    "day": 23
+  }
+]
