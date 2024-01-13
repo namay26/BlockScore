@@ -29,7 +29,7 @@ for match in schedule:
     datalist.append({'Teama':match['Match'][0], 'Teamb':match['Match'][1], 'day':i})
     i=i+2
     
-file_path = "blockscore/src/Components/schedule.json"
+file_path = "src/Components/schedule.json"
 print(datalist)
 json_string_list = json.dumps(datalist, indent=2)
 
